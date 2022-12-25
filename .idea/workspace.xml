@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f55af321-809d-4953-b55d-53e725ca3589" name="Changes" comment="" />
+    <list default="true" id="f55af321-809d-4953-b55d-53e725ca3589" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.C03_AssertionMethodlari">
+  <component name="RunManager" selected="JUnit.C05_Checkbox">
     <configuration name="C01_BeforeClassAfterClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comTeam105JUnit" />
       <extension name="coverage">
@@ -49,22 +51,6 @@
       <option name="PACKAGE_NAME" value="day06_assertions" />
       <option name="MAIN_CLASS_NAME" value="day06_assertions.C01_BeforeClassAfterClass" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_BeforeClassAfterClass.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="comTeam105JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day06_assertions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day06_assertions" />
-      <option name="MAIN_CLASS_NAME" value="day06_assertions.C01_BeforeClassAfterClass" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,22 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_BeforeClassAfterClass.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="comTeam105JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day06_assertions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day06_assertions" />
-      <option name="MAIN_CLASS_NAME" value="day06_assertions.C01_BeforeClassAfterClass" />
-      <option name="METHOD_NAME" value="test04" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C03_AssertionMethodlari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comTeam105JUnit" />
       <extension name="coverage">
@@ -116,13 +86,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C04_BestbuyAssertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comTeam105JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day06_assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day06_assertions" />
+      <option name="MAIN_CLASS_NAME" value="day06_assertions.C04_BestbuyAssertion" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_Checkbox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comTeam105JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day06_assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day06_assertions" />
+      <option name="MAIN_CLASS_NAME" value="day06_assertions.C05_Checkbox" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C05_Checkbox" />
+        <item itemvalue="JUnit.C04_BestbuyAssertion" />
         <item itemvalue="JUnit.C03_AssertionMethodlari" />
         <item itemvalue="JUnit.C01_BeforeClassAfterClass" />
         <item itemvalue="JUnit.C01_BeforeClassAfterClass.test02" />
-        <item itemvalue="JUnit.C01_BeforeClassAfterClass.test04" />
-        <item itemvalue="JUnit.C01_BeforeClassAfterClass.test01" />
       </list>
     </recent_temporary>
   </component>
