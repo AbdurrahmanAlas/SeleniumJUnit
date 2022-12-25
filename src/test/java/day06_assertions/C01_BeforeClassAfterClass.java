@@ -50,25 +50,34 @@ public class C01_BeforeClassAfterClass {
         // 2.method'da amazon'da nutella aratip, sonuclarin nutella icerdigini test edin
         WebElement aramaKutusu=driver.findElement(By.id("twotabsearchtextbox"));
         aramaKutusu.sendKeys("Nutella" + Keys.ENTER);
-        String expectedKelime="Nutella";
+
         WebElement sonucYaziElementi= driver.findElement(By.xpath("//h1[@class='a-size-base s-desktop-toolbar a-text-normal']"));
         String sonucYazisiStr=sonucYaziElementi.getText();
+
+        String expectedKelime="Nutella";
+
         if (sonucYazisiStr.contains(expectedKelime)){
             System.out.println("Nutella arama testi PASSED");
         }else {
             System.out.println("Nutella arama testi FAILED");
         }
+
     }
+
+
+
+
     @Test
     public void test03(){
         // 3.method'da nutella arama sonuc sayisinin 50'den fazla oldugunu test edin
         WebElement sonucYaziElementi= driver.findElement(By.xpath("//h1[@class='a-size-base s-desktop-toolbar a-text-normal']"));
         String sonucYazisiStr=sonucYaziElementi.getText();
-        String[] sonucYazisiArr= sonucYazisiStr.split(" ");
+       String[] sonucYazisiArr= sonucYazisiStr.split(" ");
         String sonucAdediStr=sonucYazisiArr[2]; // "74"
         int actualSonucAdediInt= Integer.parseInt(sonucAdediStr);
 
         int expectedAramaSonucusayisi= 50;
+
         if (actualSonucAdediInt>expectedAramaSonucusayisi){
             System.out.println("Nutella arama sonuc sayisi testi PASSED");
         }else {
