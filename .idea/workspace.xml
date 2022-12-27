@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f55af321-809d-4953-b55d-53e725ca3589" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day07_dropdown_isAlert/C01_HandleDropdownMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day07_dropdown_isAlert/C01_HandleDropdownMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Selenium/comTeam105JUnit"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Selenium/comTeam105JUnit&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.SepeteUrunEkleme_UrunSılme">
     <configuration name="Question1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comTeam105JUnit" />
