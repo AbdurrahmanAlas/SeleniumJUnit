@@ -36,93 +36,96 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Selenium/comTeam105JUnit"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.C05_Checkbox">
-    <configuration name="C01_BeforeClassAfterClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SepeteUrunEkleme_UrunSılme">
+    <configuration name="Question1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comTeam105JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_assertions.*" />
+          <option name="PATTERN" value="PraticCalısmalarim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_assertions" />
-      <option name="MAIN_CLASS_NAME" value="day06_assertions.C01_BeforeClassAfterClass" />
+      <option name="PACKAGE_NAME" value="PraticCalısmalarim" />
+      <option name="MAIN_CLASS_NAME" value="PraticCalısmalarim.Question1" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_BeforeClassAfterClass.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Question1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comTeam105JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_assertions.*" />
+          <option name="PATTERN" value="PraticCalısmalarim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_assertions" />
-      <option name="MAIN_CLASS_NAME" value="day06_assertions.C01_BeforeClassAfterClass" />
-      <option name="METHOD_NAME" value="test02" />
+      <option name="PACKAGE_NAME" value="PraticCalısmalarim" />
+      <option name="MAIN_CLASS_NAME" value="PraticCalısmalarim.Question1" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_AssertionMethodlari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Question1.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comTeam105JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_assertions.*" />
+          <option name="PATTERN" value="PraticCalısmalarim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_assertions" />
-      <option name="MAIN_CLASS_NAME" value="day06_assertions.C03_AssertionMethodlari" />
+      <option name="PACKAGE_NAME" value="PraticCalısmalarim" />
+      <option name="MAIN_CLASS_NAME" value="PraticCalısmalarim.Question1" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SepeteUrunEkleme_UrunSılme" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comTeam105JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PraticCalısmalarim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PraticCalısmalarim" />
+      <option name="MAIN_CLASS_NAME" value="PraticCalısmalarim.SepeteUrunEkleme_UrunSılme" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_BestbuyAssertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SepeteUrunEkleme_UrunSılme.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comTeam105JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_assertions.*" />
+          <option name="PATTERN" value="PraticCalısmalarim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_assertions" />
-      <option name="MAIN_CLASS_NAME" value="day06_assertions.C04_BestbuyAssertion" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C05_Checkbox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="comTeam105JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day06_assertions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day06_assertions" />
-      <option name="MAIN_CLASS_NAME" value="day06_assertions.C05_Checkbox" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="PraticCalısmalarim" />
+      <option name="MAIN_CLASS_NAME" value="PraticCalısmalarim.SepeteUrunEkleme_UrunSılme" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C05_Checkbox" />
-        <item itemvalue="JUnit.C04_BestbuyAssertion" />
-        <item itemvalue="JUnit.C03_AssertionMethodlari" />
-        <item itemvalue="JUnit.C01_BeforeClassAfterClass" />
-        <item itemvalue="JUnit.C01_BeforeClassAfterClass.test02" />
+        <item itemvalue="JUnit.SepeteUrunEkleme_UrunSılme" />
+        <item itemvalue="JUnit.SepeteUrunEkleme_UrunSılme.test01" />
+        <item itemvalue="JUnit.Question1.test" />
+        <item itemvalue="JUnit.Question1" />
+        <item itemvalue="JUnit.Question1.test01" />
       </list>
     </recent_temporary>
   </component>
