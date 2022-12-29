@@ -7,7 +7,6 @@
     <list default="true" id="f55af321-809d-4953-b55d-53e725ca3589" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/day07_dropdown_isAlert/C01_HandleDropdownMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day07_dropdown_isAlert/C01_HandleDropdownMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day07_dropdown_isAlert/C02_jsAllert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day07_dropdown_isAlert/C02_jsAllert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,48 +41,48 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Selenium/comTeam105JUnit&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.SepeteUrunEkleme_UrunSılme">
-    <configuration name="Question1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C01_NewWindow">
+    <configuration name="C01_HandleDropdownMenu.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comTeam105JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticCalısmalarim.*" />
+          <option name="PATTERN" value="day07_dropdown_isAlert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="PraticCalısmalarim" />
-      <option name="MAIN_CLASS_NAME" value="PraticCalısmalarim.Question1" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="comTeam105JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PraticCalısmalarim.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="PraticCalısmalarim" />
-      <option name="MAIN_CLASS_NAME" value="PraticCalısmalarim.Question1" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="day07_dropdown_isAlert" />
+      <option name="MAIN_CLASS_NAME" value="day07_dropdown_isAlert.C01_HandleDropdownMenu" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question1.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_NewWindow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comTeam105JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticCalısmalarim.*" />
+          <option name="PATTERN" value="day08_HandlingWindows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="PraticCalısmalarim" />
-      <option name="MAIN_CLASS_NAME" value="PraticCalısmalarim.Question1" />
+      <option name="PACKAGE_NAME" value="day08_HandlingWindows" />
+      <option name="MAIN_CLASS_NAME" value="day08_HandlingWindows.C01_NewWindow" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_NewWindow.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comTeam105JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day08_HandlingWindows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day08_HandlingWindows" />
+      <option name="MAIN_CLASS_NAME" value="day08_HandlingWindows.C01_NewWindow" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -123,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C01_NewWindow" />
+        <item itemvalue="JUnit.C01_NewWindow.test01" />
+        <item itemvalue="JUnit.C01_HandleDropdownMenu.test01" />
         <item itemvalue="JUnit.SepeteUrunEkleme_UrunSılme" />
         <item itemvalue="JUnit.SepeteUrunEkleme_UrunSılme.test01" />
-        <item itemvalue="JUnit.Question1.test" />
-        <item itemvalue="JUnit.Question1" />
-        <item itemvalue="JUnit.Question1.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -152,5 +151,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/day07_dropdown_isAlert/C01_HandleDropdownMenu.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
