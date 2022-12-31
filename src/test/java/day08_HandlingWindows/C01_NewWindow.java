@@ -54,6 +54,7 @@ public class C01_NewWindow {
 
 
         //yeni bir tab da wisequarter.com a gidini ve gittigimizi test edin
+
         // Testin ilerlleyen asamalarinda yeniden amazon sayfasina donmek gerekiyorsa
         //amazon sayfasiindayken bu windowun window handdle degerini alip kaydetmeliyiz
 

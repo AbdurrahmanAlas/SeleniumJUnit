@@ -53,7 +53,7 @@ public class C02_WindowHandle {
         String ilkSayfaHandleDegeri= driver.getWindowHandle();
 
 
-        //● Click Here butonuna basın.
+         //● Click Here butonuna basın.
         driver.findElement(By.linkText("Click Here")).click();
         Thread.sleep(3000);
 

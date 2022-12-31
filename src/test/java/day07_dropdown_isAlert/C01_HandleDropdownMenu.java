@@ -33,8 +33,8 @@ public class C01_HandleDropdownMenu {
 
 
 
-        // arama kutusuna java yazdirip aramayi yapin
-        // title'in java icerdigini test edin
+
+
 
         // amazon anasayfaya gidin
         driver.get("https://www.amazon.com");
@@ -60,12 +60,11 @@ public class C01_HandleDropdownMenu {
         // 3- select objesini kullanarak istedigimiz method/method'lari calistirin.
         select.selectByVisibleText("Books");
 
-        // select.selectByValue("search-alias=stripbooks-intl-ship");
-        // select.selectByIndex(5);
-
+        // arama kutusuna java yazdirip aramayi yapin
         WebElement aramaKutusu= driver.findElement(By.id("twotabsearchtextbox"));
         aramaKutusu.sendKeys("Java"+ Keys.ENTER);
 
+        // title'in java icerdigini test edin
         String expectedKelime="Java";
         String actualTitle= driver.getTitle();
         Assert.assertTrue(actualTitle.contains(expectedKelime));
@@ -77,6 +76,7 @@ public class C01_HandleDropdownMenu {
            StaleElementException verir
            bu durumda locate ve secme islemini yeniden yaparsak kodumuz calisir
          */
+
         dropdownWebElementi= driver.findElement(By.xpath("//select[@id='searchDropdownBox']"));
         select = new Select(dropdownWebElementi);
         select.selectByVisibleText("Books");
