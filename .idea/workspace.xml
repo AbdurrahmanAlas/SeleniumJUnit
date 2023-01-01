@@ -40,19 +40,18 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Selenium/comTeam105JUnit&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.ExplicitlyWait">
-    <configuration name="C02_FileDownloadTesti.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C03_Cookies">
+    <configuration name="C03_Cookies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="comTeam105JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_FileTests.*" />
+          <option name="PATTERN" value="day11_seleniiumWaits_cookies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day10_FileTests" />
-      <option name="MAIN_CLASS_NAME" value="day10_FileTests.C02_FileDownloadTesti" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="day11_seleniiumWaits_cookies" />
+      <option name="MAIN_CLASS_NAME" value="day11_seleniiumWaits_cookies.C03_Cookies" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C03_Cookies" />
         <item itemvalue="JUnit.ExplicitlyWait" />
         <item itemvalue="JUnit.Question2" />
         <item itemvalue="JUnit.C03_FileUploadTesti" />
         <item itemvalue="JUnit.C03_FileUploadTesti.test01" />
-        <item itemvalue="JUnit.C02_FileDownloadTesti.test02" />
       </list>
     </recent_temporary>
   </component>
